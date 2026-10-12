@@ -1,7 +1,7 @@
 # Links
 
 
-
+Tutorial inicial: https://r2d3.us/una-introduccion-visual-al-machine-learning-1/ 
 
 https://jakevdp.github.io/PythonDataScienceHandbook/
 

@@ -94,5 +94,3 @@ async function processCSV(inputFilePath, outputFilePath) {
 
 // Ejecución del script (cambia 'entrada.csv' y 'salida_traducida.csv' por tus rutas)
 processCSV('konsumtionsvaneundersokningen-2018.csv', 'salida_traducida.csv');
-
-

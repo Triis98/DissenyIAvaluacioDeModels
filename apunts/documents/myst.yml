@@ -39,6 +39,9 @@ project:
         - file: deep_learning/xarxes_numpy.ipynb
         - file: deep_learning/pytorch.ipynb 
         - file: deep_learning/xarxes_neuronals_pytorch.ipynb
+    - title: Series Temporals
+      children:
+        - file: series_temporals/series_temporals.ipynb
     - title: Algorismes de reforç
       children:
         - file: reforç/aprenentatge_refoç.ipynb

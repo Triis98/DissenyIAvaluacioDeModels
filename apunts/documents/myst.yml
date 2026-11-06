@@ -42,6 +42,7 @@ project:
     - title: Series Temporals
       children:
         - file: series_temporals/series_temporals.ipynb
+        - file: series_temporals/series_temporals_deep_learning.ipynb
     - title: Algorismes de reforç
       children:
         - file: reforç/aprenentatge_refoç.ipynb

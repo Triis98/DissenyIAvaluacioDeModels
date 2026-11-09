@@ -49,6 +49,7 @@ project:
 
     - title: Exemples
       children:
+        - file: exemples/mnist.ipynb
         - file: orange_guess_who.md
         - file: DemoClusteringJerarquico.ipynb
     - title: Exercicis
